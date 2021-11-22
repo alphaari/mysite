@@ -1,0 +1,101 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+p {
+  line-height: 1.5rem;
+}
+
+h1 {
+  font-family: "Molle";
+  font-size: 3.5rem;
+  color: #F4EEFF;
+}
+
+h2 {
+color: #424874;
+}
+
+h3 {
+  color: #424874;
+}
+
+h4 {
+    color: #F4EEFF;
+}
+
+a {
+  font-family: "Ubuntu";
+  color: #DCD6F7;
+  margin: 100px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F4EEFF;
+}
+
+/** welcome section **/
+.top-section {
+  width: 100%;
+  background-color: #A6B1E1;
+  padding-top: 70px;
+  padding-bottom: 50px;
+  position: relative;
+}
+
+.welcome-section {
+  margin: auto;
+  text-align: left;
+  width: 50%;
+}
+
+.fotoprofilo {
+  width: 20%;
+  border-radius: 100%;
+  display: block;
+  float: right;
+}
+
+/** sezione mediana **/
+.middle-section {
+  width: 100%;
+  background-color: #F4EEFF;
+  position: relative;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+.middle-title {
+  width: 60%;
+  margin: auto;
+}
+
+.skill {
+  margin: 50px auto 50px auto;
+  padding-top: 30px;
+  width: 50%;
+}
+
+.testo {
+  padding-top: 15px;
+}
+
+.passion-link {
+  margin: 0;
+  color: #424874;
+}
+
+
+/** piè di pagina **/
+.bottom-section {
+  background-color: #424874;
+  padding-bottom: 40px;
+}
+
+.contatti {
+  padding: 30px ;
+}
